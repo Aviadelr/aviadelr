@@ -12,5 +12,5 @@ Hello! I'm a passionate student nearing graduation from The Hebrew University of
    The following MySQL project demonstrates data analysis skills using Google BigQuery and Python to efficiently handle large-scale datasets, specifically NYC 311 service requests..  [View Project](https://github.com/Aviadelr/BigDataAnalysis/blob/main/MidTerm_52002_2022_23_SQL.ipynb)
 
 4. **wikipedia network research**  
-   Conducted a comprehensive analysis and visualization of earthquake geographical data using R. This project involved advanced statistical methods, sampling techniques, and the application of visualization libraries to interpret data effectively.  [View Project](https://github.com/Aviadelr/SignalProcessingAnalysis/blob/main/Final%20Project%20Aviad%20Elron%20Aviv%20Gelfand%20and%20Amit%20Chen_100.pdf)
+   A project of research techniques to explore the English Wikipedia network from 2002, employing methods such as clustering coefficient calculations, degree distribution analysis, and power law estimations to reveal structural insights. Additionally, implementation of random network simulations, PageRank and Topic-Specific PageRank algorithms, and community detection with the Louvain method.  [View Project](https://github.com/Aviadelr/BigDataAnalysis/blob/main/BigDataMining_2022_23_FinalAssignment_Part1_final.ipynb)
 
