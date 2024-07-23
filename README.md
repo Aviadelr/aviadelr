@@ -3,14 +3,14 @@ Hello! I'm a passionate student nearing graduation from The Hebrew University of
 ### Check Out Some of my academic Projects:
 
 1. **Driver Behavior Detection Using Smartphone Signals**  
-   This signal detection project applies machine learning techniques to identify risky driver behavior, leveraging academic publications and open-source datasets for analysis.[View Project](https://github.com/Aviadelr/SignalProcessingAnalysis/blob/main/Final%20Project%20Aviad%20Elron%20Aviv%20Gelfand%20and%20Amit%20Chen_100.pdf)
+   This signal detection project applies machine learning techniques to identify risky driver behavior, leveraging academic publications and open-source datasets for analysis. [View Project](https://github.com/Aviadelr/SignalProcessingAnalysis/blob/main/Final%20Project%20Aviad%20Elron%20Aviv%20Gelfand%20and%20Amit%20Chen_100.pdf)
 
 2. **unix**  
-   A big data project focused on processing and analyzing vast geolocation datasets to derive insightful trends. Employing Apache Spark, I built predictive models to forecast traffic patterns based on historical data.
+   A big data project focused on processing and analyzing vast geolocation datasets to derive insightful trends. Employing Apache Spark, I built predictive models to forecast traffic patterns based on historical data.  [View Project](https://github.com/Aviadelr/BigDataAnalysis/blob/main/MidTerm_52002_2022_23_unix.txt)
 
 3. **sql**  
-   Developed a real-time data processing pipeline using Apache Kafka to ingest and analyze streaming data efficiently. This project demonstrates the ability to manage large datasets in real-time applications effectively.
+   Developed a real-time data processing pipeline using Apache Kafka to ingest and analyze streaming data efficiently. This project demonstrates the ability to manage large datasets in real-time applications effectively.  [View Project](https://github.com/Aviadelr/BigDataAnalysis/blob/main/MidTerm_52002_2022_23_SQL.ipynb)
 
 4. **wikipedia network research**  
-   Conducted a comprehensive analysis and visualization of earthquake geographical data using R. This project involved advanced statistical methods, sampling techniques, and the application of visualization libraries to interpret data effectively.
+   Conducted a comprehensive analysis and visualization of earthquake geographical data using R. This project involved advanced statistical methods, sampling techniques, and the application of visualization libraries to interpret data effectively.  [View Project](https://github.com/Aviadelr/SignalProcessingAnalysis/blob/main/Final%20Project%20Aviad%20Elron%20Aviv%20Gelfand%20and%20Amit%20Chen_100.pdf)
 
